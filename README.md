@@ -27,7 +27,4 @@ AI画像生成やLLMについての学習を積極的に行ってます。
 - [note](https://note.com/gentle_dietes302)（AI / 心理学 / 小説）
 - [Ayatori News](https://news.ayatori-inc.co.jp/)（AIニュース）
 
-### Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=impso-arion&show_icons=true&hide_title=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=impso-arion&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 

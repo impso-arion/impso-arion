@@ -3,6 +3,15 @@
 **障碍があっても、AIを味方につければ中級エンジニアを目指せる。**  
 そんな実感を共有しながら、福岡でAI記事・制作を続けています。
 
+### AI画像生成 / LLM
+AI画像生成やLLMについての学習を積極的に行ってます。  
+**クリーンフォークされたAIがあなたの世界を救う。**
+
+<p align="center">
+  <img src="img/ComfyUI_00702_.webp" width="49%" />
+  <img src="img/ComfyUI_00703_.webp" width="49%" />
+</p>
+
 ### 得意分野 / Tech
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat&logo=node.js&logoColor=white)
@@ -19,10 +28,6 @@
 - [Ayatori News](https://news.ayatori-inc.co.jp/)（AIニュース）
 
 ### Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=impso-arion&show_icons=true&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=impso-arion&layout=compact)
-
-
-### Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=impso-arion&show_icons=true&hide_title=true&theme=tokyonight&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=impso-arion&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
